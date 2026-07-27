@@ -1,1 +1,10 @@
-this is a sample file
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>Welcome to HTML.</p>
+</body>
+</html>
